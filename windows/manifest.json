@@ -6,7 +6,7 @@
   "releaseDate": "2026-02-01T00:00:00Z",
   "download": {
     "type": "msi",
-    "url": "https://example.com/iETMS-0.1.0.msi"
+    "url": "https://github.com/MaxYakovitski/iETMS/releases/download/v0.1.0/iETMS-0.1.0.msi"
   },
   "notes": "Initial public release"
 }
