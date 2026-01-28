@@ -8,7 +8,7 @@
     "type": "msi",
     "url": "https://github.com/MaxYakovitski/iETMS/releases/download/v0.1.0/iETMS-0.1.0.msi",
     "sha256": "null",
-    "size": 0
+    "size": -1
   },
   "notes": "Initial public release"
 }
