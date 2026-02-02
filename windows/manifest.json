@@ -2,7 +2,7 @@
   "app": "iETMS-desktop",
   "platform": "windows",
   "latestVersion": "0.1.1",
-  "mandatory": false,
+  "mandatory": true,
   "releaseDate": "2026-02-02T14:35:49Z",
   "download": {
     "type": "msi",
