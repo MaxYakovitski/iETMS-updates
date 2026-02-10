@@ -6,7 +6,7 @@
   "releaseDate": "2026-02-10T09:05:22Z",
   "download": {
     "type": "msi",
-    "url": "https://github.com/MaxYakovitski/iETMS/releases/download/desktop-v0.1.1/iETMS-0.1.1.msi",
+    "url": "https://maxyakovitski.github.io/iETMS-updates/windows/iETMS-0.1.1.msi",
     "sha256": "3302239051c69d732e26cdc7cfc4f958d290a6d7327f1ba193faba7586d93428",
     "size": 129534954
   },
