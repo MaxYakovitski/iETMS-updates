@@ -1,7 +1,7 @@
 {
   "app": "iETMS-desktop",
   "platform": "windows",
-  "latestVersion": "0.1.0-test",
+  "latestVersion": "0.1.0",
   "mandatory": true,
   "releaseDate": "2026-02-02T15:34:45Z",
   "download": {
