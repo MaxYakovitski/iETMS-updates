@@ -1,14 +1,14 @@
 {
   "app": "iETMS-desktop",
   "platform": "windows",
-  "latestVersion": "0.1.10",
+  "latestVersion": "0.1.15",
   "mandatory": true,
-  "releaseDate": "2026-02-16T10:28:09Z",
+  "releaseDate": "2026-06-02T18:47:06Z",
   "download": {
     "type": "msi",
-    "url": "https://github.com/MaxYakovitski/iETMS/releases/download/desktop-v0.1.10/iETMS-0.1.10.msi",
-    "sha256": "de0837f87ca24e89c83b0a542b56e807fdaa2dc257260308c3f73eb00589c317",
-    "size": 167170479
+    "url": "https://github.com/MaxYakovitski/iETMS/releases/download/desktop-v0.1.15/iETMS-0.1.15.msi",
+    "sha256": "bbe647963dd5999f4cf264e3b80998e5c56fb9c1445abbc8323f33a15847ab75",
+    "size": 125121544
   },
-  "notes": "Desktop release 0.1.10"
+  "notes": "Desktop release 0.1.15"
 }
